@@ -358,6 +358,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://api.iconify.design/mdi:map-marker.svg?color=%232E7D32" height="14"/> [Verrow](https://github.com/BradenTabor/verrow-mcp) - Sourced rural public data for zoning, permits, decisions, soil, wind, airspace, licenses, and site reports; remote endpoint at https://api.verrow.ai/mcp with x402 USDC on Base.
 
 <br />
 
